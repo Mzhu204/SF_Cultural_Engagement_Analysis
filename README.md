@@ -116,3 +116,33 @@ Several limitations were observed:
 6. Results should be interpreted as descriptive rather than causal.
 
 Future work could incorporate nonlinear forecasting methods or institution-specific recovery models. 
+
+## Repository Structure
+data/
+    raw/
+    cleaned/
+
+scripts/
+    01_data_cleaning.R
+    02_exploratory_analysis.R
+    03_recovery_metrics.R
+    04_interrupted_time_series.R
+
+figures/
+    public_library.png
+    deyoung.png
+    legion_of_honor.png
+    asian_art_museum.png
+    academy_of_sciences.png
+
+README.md
+
+## Skills Demonstrated
+Data cleaning in R
+Exploratory data analysis
+Data visualization with ggplot2
+Time series analysis
+Fixed-effects regression
+Interrupted time series modeling
+Public-interest data storytelling
+Communicating statistical results to non-technical audiences
