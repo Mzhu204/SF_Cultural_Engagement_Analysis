@@ -75,23 +75,23 @@ Institution controls for baseline participation differences
 
 ### Public Library 
 
-During the pandemic, SF Public Libraries saw a a 154% drop in visitors. As of 2025, the Recovery Ratio of 0.58 suggests that visitor counts are 60% of what they were pre-pandemic. 
+During the pandemic, SF Public Libraries saw a a 154% drop in visitors. The pre-pandemic growth rate was approximately -144,423 people per year vs a post-pandemic growth rate of 626,365 people per year since 2021. As of 2025, the Recovery Ratio of 0.58 suggests that visitor counts are 60% of what they were pre-pandemic. 
 
 ### De Young Museum 
 
-During the pandemic, the De Young Museum saw a a 153% drop in visitors. As of 2025, the Recovery Ratio of 0.70 suggests that visitor counts are 70% of what they were pre-pandemic. 
+During the pandemic, the De Young Museum saw a a 153% drop in visitors. The pre-pandemic growth rate was approximately -39,536 people per year vs a post-pandemic growth rate of +61,542 people per year since 2021. As of 2025, the Recovery Ratio of 0.70 suggests that visitor counts are 70% of what they were pre-pandemic. 
 
 ### Legion of Honor 
 
-The closest institution to a full recovery. During the pandemic, the Legion of Honor saw a 152% drop in visitors. As of 2025, the Recovery Ratio of 0.92 suggests that visitor counts are 92% of what they were pre-pandemic.
+The closest institution to a full recovery. The pre-pandemic growth rate was approximately +3,927 per year vs a post-pandemic growth rate of around +29,479 people per year since 2021. During the pandemic, the Legion of Honor saw a 152% drop in visitors. As of 2025, the Recovery Ratio of 0.92 suggests that visitor counts are 92% of what they were pre-pandemic. 
 
 ### Asian Art Museum 
 
-The lowest recovery ratio among analyzed institutions. During the pandemic, the Asian Art Museum saw a 129% drop in visitors. As of 2025, the Recovery Ratio of 0.54 suggests that visitor counts are only 54% what they were pre-pandemic.
+The lowest recovery ratio among analyzed institutions. The pre-pandemic growth rate was approximately -17,988 people per year vs a post-pandemic growth rate of -10,345 people per year since 2021. During the pandemic, the Asian Art Museum saw a 129% drop in visitors. As of 2025, the Recovery Ratio of 0.54 suggests that visitor counts are only 54% what they were pre-pandemic.
 
-California Academy of Sciences Recovery Ratio: 0.80
+### California Academy of Sciences 
 
-Significant rebound following severe pandemic losses. During the pandemic, the Asian Art Museum saw a 164% drop in visitors. As of 2025, the Recovery Ratio of 0.80 suggests that visitor counts are 80% what they were pre-pandemic.
+Significant rebound following severe pandemic losses. The pre=pandemic growth rate was approximately -20,353 people per year vs a post-pandemic growth rate of +148,851 people per year since 2021. During the pandemic, the Asian Art Museum saw a 164% drop in visitors. As of 2025, the Recovery Ratio of 0.80 suggests that visitor counts are 80% what they were pre-pandemic.
 
 ## Pooled Model Results
 
